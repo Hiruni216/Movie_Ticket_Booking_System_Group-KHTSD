@@ -1,0 +1,24 @@
+Group Members
+--------------
+Full Name					Index No	User Name
+______________________________________________________________________________
+Hiruni Deshika Galabadaadarachchi		AS20250457	Hiruni216
+Aluth Arachchige Thisuri Nimsarani		AS20250427	aatnimsarani-al
+Rubasinghe Pathiranage Kusalya Tharumini	AS20250646	KusalyaTharumini
+Oshani Darshika Hettiarachchi			AS20250472	haodarshika
+Herath Mudiyanselage Subhashi Prabhodani Herath AS20250484	subhashi18
+
+
+Repository Information 
+------------------------
+Repository Name: Movie_Ticket_Booking_System_Group-KHTSD
+GitHub Repository URL: https://github.com/Hiruni216/Hiruni216-Movie_Ticket_Booking_System_Group-KHTSD-in-the-box-below.git
+
+
+Contribution Summary
+---------------------
+Hiruni Deshika Galabadaadarachchi(Hiruni216)		:- Created the GitHub repository and collaborated with team members., Developed C program for booking and pricing
+Aluth Arachchige Thisuri Nimsarani (aatnimsarani-al)    :- Preparing Project Report and Building C Program for seat booking and booking cancellation.
+Rubasinghe Pathiranage Kusalya Tharumini(haodarshika)	:- Developed C program for search booking and view revenue, Testing and debugging 
+Herath Mudiyanselage Subhashi Prabhodani Herath (subhashi18):- building C program for Showtime and seats mapping, Prepared the group project submission file
+Oshani Darshika Hettiarachchi(haodarshika)		    :- Preparing Project Report  
